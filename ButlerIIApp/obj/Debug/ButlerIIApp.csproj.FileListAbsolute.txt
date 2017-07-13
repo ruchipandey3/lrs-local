@@ -1,0 +1,11 @@
+E:\codebase\lrs\ButlerIIApp\ButlerIIApp\bin\Debug\ButlerIIApp.exe.config
+E:\codebase\lrs\ButlerIIApp\ButlerIIApp\bin\Debug\ButlerIIApp.exe
+E:\codebase\lrs\ButlerIIApp\ButlerIIApp\bin\Debug\ButlerIIApp.pdb
+E:\codebase\lrs\ButlerIIApp\ButlerIIApp\obj\Debug\ButlerIIApp.Form1.resources
+E:\codebase\lrs\ButlerIIApp\ButlerIIApp\obj\Debug\ButlerIIApp.Properties.Resources.resources
+E:\codebase\lrs\ButlerIIApp\ButlerIIApp\obj\Debug\ButlerIIApp.Views.ButtonInputTabView.resources
+E:\codebase\lrs\ButlerIIApp\ButlerIIApp\obj\Debug\ButlerIIApp.Views.ButtonRowView.resources
+E:\codebase\lrs\ButlerIIApp\ButlerIIApp\obj\Debug\ButlerIIApp.Views.ExternalInputRowView.resources
+E:\codebase\lrs\ButlerIIApp\ButlerIIApp\obj\Debug\ButlerIIApp.csproj.GenerateResource.Cache
+E:\codebase\lrs\ButlerIIApp\ButlerIIApp\obj\Debug\ButlerIIApp.exe
+E:\codebase\lrs\ButlerIIApp\ButlerIIApp\obj\Debug\ButlerIIApp.pdb
